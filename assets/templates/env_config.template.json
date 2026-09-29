@@ -1,0 +1,14 @@
+{
+  "unirtos_root": "",
+  "build": {
+    "module": "EG800ZCN_LA",
+    "version": "",
+    "jobs": 4
+  },
+  "sdk": {
+    "version": "1.0.1"
+  },
+  "libraries": {
+    "list": []
+  }
+}
