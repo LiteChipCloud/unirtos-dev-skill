@@ -35,5 +35,5 @@ https://www.quectel.com.cn/document/   （UniRTOS / QuecOpen 板块）
 
 ## License
 
-技能本体（SKILL.md / references / scripts / templates）：随本仓库许可。
+技能本体（SKILL.md / references / scripts / templates）以 [Apache-2.0](LICENSE) 发布。
 `assets/docs-md/` 若本地存在，版权归属 Quectel，不得再分发。

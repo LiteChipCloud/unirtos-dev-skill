@@ -34,5 +34,5 @@ Quality gates before declaring a UniRTOS deliverable done. Adapted from `quecpyt
 
 ## 5. Delivery
 
-- [ ] Deliverable visible/usable by 邓总 (AGENTS.md closure rule): device + firmware + docs + evidence pack
+- [ ] Deliverable reviewed/accepted by the requester: device + firmware + docs + evidence pack
 - [ ] Evidence pack: build log, flash PASS, EPAT capture, AT transcripts — under `<project>/review/`

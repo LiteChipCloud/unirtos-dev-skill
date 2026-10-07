@@ -2,6 +2,11 @@
 
 Format based on Keep a Changelog; versioning: semver (MAJOR.MINOR.PATCH — MINOR bump on new capability/reference/script additions, PATCH on corrections).
 
+## [Unreleased] — 2026-10-08
+
+### Changed
+- Repository published as open source under Apache-2.0: `LICENSE` added, README License section updated to point at it, release-checklist delivery wording neutralized. Skill content unchanged.
+
 ## [1.1.1] — 2026-09-20
 
 ### Full-stack IoT validation (EG800Z + ESP32-S3 camera)
