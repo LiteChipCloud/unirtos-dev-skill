@@ -33,6 +33,17 @@ https://www.quectel.com.cn/document/   （UniRTOS / QuecOpen 板块）
 
 镜像缺失时技能仍可用（SKILL.md 与 references/ 自包含），仅离线查文档能力降级。
 
+## 开发板与购买渠道（移远官方旗舰店）
+
+本 Skill 面向的 EG800Z 开发板及配套模组，可在淘宝「移远官方旗舰店」（天猫品牌直营店）购买：
+
+<p align="center">
+  <img src="assets/images/quectel-tmall-store.png" alt="移远旗舰店 — 天猫品牌直营店" width="200" />
+</p>
+
+- 购买渠道：淘宝 App 搜索「移远官方旗舰店」
+- 说明：仅作为开发验证硬件参考，不构成唯一采购渠道
+
 ## License
 
 技能本体（SKILL.md / references / scripts / templates）以 [Apache-2.0](LICENSE) 发布。
