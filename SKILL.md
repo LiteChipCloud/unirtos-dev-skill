@@ -1,7 +1,7 @@
 ---
 name: unirtos-dev
-version: 1.1.1
-updated: 2026-09-20
+version: 1.2.0
+updated: 2026-09-29
 description: UniRTOS (Quectel 统一 C 语言嵌入式 SDK) 设备开发与运维技能。当任务涉及 UniRTOS 应用开发（qosa_/qcm_/qurl_ C API）、unirtos-cli 工程（new/env-setup/build/menuconfig）、env_config.json、EG800Z/EC800Z/EG915Z 模组、EG800Z QuecDuino EVB/pico 开发板、QFlash 烧录 .hbinpkg、EPAT 日志抓取、QCOM AT 调试、蜂窝拨号 DataCall、MQTT/Socket 云对接时使用。用户提到 UniRTOS、unirtos-cli、QuecDuino、qosa API 或在 EG800Z 板子上做 C 开发时即应触发，即使用户没有明说 "UniRTOS"。
 ---
 

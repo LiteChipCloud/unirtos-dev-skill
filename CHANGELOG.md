@@ -7,6 +7,11 @@ Format based on Keep a Changelog; versioning: semver (MAJOR.MINOR.PATCH — MINO
 ### Changed
 - Repository published as open source under Apache-2.0: `LICENSE` added, README License section updated to point at it, release-checklist delivery wording neutralized. Skill content unchanged.
 
+## [1.2.0] — 2026-09-29
+
+### Changed
+- references/troubleshooting: 增补 ACM0 诊断 / qurl TLS / nvitem 三组实战条目。
+
 ## [1.1.1] — 2026-09-20
 
 ### Full-stack IoT validation (EG800Z + ESP32-S3 camera)
@@ -75,6 +80,3 @@ Format based on Keep a Changelog; versioning: semver (MAJOR.MINOR.PATCH — MINO
 ### Environment notes
 - Local machine: remote-switch device (EC800K + QuecPython, COM67–70) off-limits; EVB group COM71–73.
 - Toolchain unirtos 1.0.5 at `C:\Users\kingd\unirtos-toolchain` (setup.bat xz path bug worked around); unirtos-cli 1.0.20; mirror=gitee.
-
-## 1.2.0
-| 2026-09-29 | troubleshooting 增补 ACM0 诊断/qurl TLS/nvitem 三组实战条目 |
