@@ -45,6 +45,16 @@ https://www.quectel.com.cn/document/   （UniRTOS / QuecOpen 板块）
 - 购买渠道：淘宝 App 搜索「移远官方旗舰店」
 - 说明：仅作为开发验证硬件参考，不构成唯一采购渠道；Skill 流程对其他 UniRTOS 模组同样适用
 
+## 官方资源（UniRTOS）
+
+| 资源 | 链接 |
+|---|---|
+| UniRTOS 文档首页 | <https://docs.quectel.com/zh/UniRTOS/UniRTOS文档/index.html> |
+| UniRTOS 文档站（中文门户） | <https://www.quectel.com.cn/unirtos/docs> |
+| 开发者社区（UniRTOS 板块） | <https://forumschinese.quectel.com/c/66-category/66> |
+
+> 注：UniRTOS SDK 以 Quectel Custom Source License 随开发板 / 工具链分发，无公开开源组织首页；生态入口以上述官方文档站与开发者社区为准。
+
 ## License
 
 技能本体（SKILL.md / references / scripts / templates）以 [Apache-2.0](LICENSE) 发布。
