@@ -37,3 +37,16 @@ https://www.quectel.com.cn/document/   （UniRTOS / QuecOpen 板块）
 
 技能本体（SKILL.md / references / scripts / templates）以 [Apache-2.0](LICENSE) 发布。
 `assets/docs-md/` 若本地存在，版权归属 Quectel，不得再分发。
+
+---
+
+## 相关项目：LiteGate CLI
+
+[LiteGate](https://github.com/LiteChipCloud/litegate) 是一站式大模型 API 网关：一个 Key 通吃 Claude / GLM / DeepSeek / MiniMax / Qwen 等 14 款模型，OpenAI 与 Claude 双协议兼容，长期免费模型，全线 1M 上下文。官方 CLI 一条命令即可把 Claude Code / Codex / ZCode / MiniMax Code 等 AI 编程工具全部接上 LiteGate：
+
+```bash
+# 零安装直接用
+npx @litechipcloud/litegate init
+```
+
+安装即用：检测本机 AI 编程工具 → 粘贴 Key → 自动写入配置（增量模式不碰已有配置，自动备份可回滚）。详见 [LiteChipCloud/litegate](https://github.com/LiteChipCloud/litegate)。
