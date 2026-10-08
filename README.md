@@ -35,13 +35,13 @@ https://www.quectel.com.cn/document/   （UniRTOS / QuecOpen 板块）
 
 ## 开发验证硬件参考（移远官方旗舰店）
 
-本 Skill 面向 UniRTOS 模组开发（EG800Z / EC800Z / EG915Z 等系），与具体板卡解耦。开发验证常用的 EG800Z QuecDuino EVB 等开发板及配套模组，可在淘宝「移远官方旗舰店」（天猫品牌直营店）购买：
+本 Skill 面向 UniRTOS 模组开发（EG800Z / EC800Z / EG915Z 等系），与具体板卡解耦。开发验证常用的 QuecDuino EVB 开发板及配套模组，可在淘宝「移远官方旗舰店」（天猫品牌直营店）购买：
 
 <p align="center">
-  <img src="assets/images/eg800z-quecduino-evb.jpg" alt="EG800Z QuecDuino EVB V1.0 — 开发验证参考板" width="380" />&nbsp;&nbsp;<img src="assets/images/quectel-tmall-store.png" alt="移远旗舰店 — 天猫品牌直营店" width="170" />
+  <img src="assets/images/quecduino-evb-tmall-card.jpg" alt="QuecDuino EVB 开发板 — 移远官方旗舰店" width="380" />&nbsp;&nbsp;<img src="assets/images/quectel-tmall-store.png" alt="移远旗舰店 — 天猫品牌直营店" width="170" />
 </p>
 
-- 开发验证参考板：EG800Z QuecDuino EVB（板图来源：移远官方社区）
+- 开发验证参考板：QuecDuino EVB（¥118，移远原厂 Ex800 系列模组，4G 全网通 & GNSS 可选，兼容 Arduino 生态 / QuecPython 快速开发）
 - 购买渠道：淘宝 App 搜索「移远官方旗舰店」
 - 说明：仅作为开发验证硬件参考，不构成唯一采购渠道；Skill 流程对其他 UniRTOS 模组同样适用
 
